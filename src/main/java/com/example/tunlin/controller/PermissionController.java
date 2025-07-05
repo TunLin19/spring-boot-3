@@ -1,6 +1,6 @@
 package com.example.tunlin.controller;
 
-import com.example.tunlin.dto.request.ApiResponse;
+import com.example.tunlin.dto.response.ApiResponse;
 import com.example.tunlin.dto.request.PermissionRequest;
 import com.example.tunlin.dto.response.PermissionResponse;
 import com.example.tunlin.service.PermissionService;

@@ -1,4 +1,4 @@
-package com.example.tunlin.dto.request;
+package com.example.tunlin.dto.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.*;

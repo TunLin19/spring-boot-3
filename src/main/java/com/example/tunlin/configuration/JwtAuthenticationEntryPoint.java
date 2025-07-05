@@ -1,7 +1,7 @@
 package com.example.tunlin.configuration;
 
 
-import com.example.tunlin.dto.request.ApiResponse;
+import com.example.tunlin.dto.response.ApiResponse;
 import com.example.tunlin.exception.ErrorCode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.servlet.ServletException;

@@ -1,6 +1,6 @@
 package com.example.tunlin.controller;
 
-import com.example.tunlin.dto.request.ApiResponse;
+import com.example.tunlin.dto.response.ApiResponse;
 import com.example.tunlin.dto.request.UserCreationRequest;
 import com.example.tunlin.dto.request.UserUpdateRequest;
 import com.example.tunlin.dto.response.UserResponse;

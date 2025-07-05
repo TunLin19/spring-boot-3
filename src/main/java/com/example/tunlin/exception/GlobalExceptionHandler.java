@@ -1,6 +1,6 @@
 package com.example.tunlin.exception;
 
-import com.example.tunlin.dto.request.ApiResponse;
+import com.example.tunlin.dto.response.ApiResponse;
 import jakarta.validation.ConstraintViolation;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
@@ -85,5 +85,6 @@ public class GlobalExceptionHandler {
 
         return message.replace("{"+MIN_ATTRIBUTE+"}",minValues);
     }
+
 
 }
